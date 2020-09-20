@@ -21,7 +21,7 @@ include:
   - _pages
 
 sass:
-  sass_dir: assets/scss
+  sass_dir: root: /assets/scss
   style: compressed
 
 # Exclude from processing.
