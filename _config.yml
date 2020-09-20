@@ -1,5 +1,5 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /speedlabs
+url: www.punnettsquaresrule.github.io/speedlabs/
 
 # Build settings
 markdown: kramdown
@@ -7,8 +7,7 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
 
-  baseurl: /kross-jekyll
-  url: https://punnettsquaresrule.github.io/kross-jekyll/
+
 
 # Pages Path
 defaults:
