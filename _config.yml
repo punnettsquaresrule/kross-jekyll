@@ -7,6 +7,9 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
 
+  baseurl: /kross-jekyll
+  url: https://punnettsquaresrule.github.io/kross-jekyll/
+
 # Pages Path
 defaults:
   - scope:
